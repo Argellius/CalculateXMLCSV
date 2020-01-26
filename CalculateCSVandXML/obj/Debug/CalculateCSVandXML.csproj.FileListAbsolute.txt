@@ -1,0 +1,6 @@
+C:\Users\Adam\source\repos\CalculateCSVandXML\CalculateCSVandXML\obj\Debug\CalculateCSVandXML.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\CalculateCSVandXML\CalculateCSVandXML\bin\Debug\CalculateCSVandXML.exe.config
+C:\Users\Adam\source\repos\CalculateCSVandXML\CalculateCSVandXML\bin\Debug\CalculateCSVandXML.exe
+C:\Users\Adam\source\repos\CalculateCSVandXML\CalculateCSVandXML\bin\Debug\CalculateCSVandXML.pdb
+C:\Users\Adam\source\repos\CalculateCSVandXML\CalculateCSVandXML\obj\Debug\CalculateCSVandXML.exe
+C:\Users\Adam\source\repos\CalculateCSVandXML\CalculateCSVandXML\obj\Debug\CalculateCSVandXML.pdb
